@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">bmi example</string>
+    <string-array name="sportype">
+        <item>baseball</item>
+        <item>basketball</item>
+        <item>soccer</item>
+        <item>football</item>
+        <item>tennis</item>
+        <item>voleyball</item>
+    </string-array>
+</resources>
